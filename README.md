@@ -13,7 +13,6 @@ Key Features:
 
 Tools & Technologies Used:
 Power BI (Data Modeling, DAX, Interactive Dashboards)
-Excel/Pandas (Data Cleaning & Preprocessing)
-SQL (Data Querying & Filtering) (if applicable)
+Excel (Data Cleaning & Preprocessing)
 
 This project showcases my ability to analyze HR data, derive meaningful insights, and create interactive dashboards to support data-driven decision-making. 
