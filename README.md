@@ -15,4 +15,6 @@ Tools & Technologies Used:
 Power BI (Data Modeling, DAX, Interactive Dashboards)
 Excel (Data Cleaning & Preprocessing)
 
-This project showcases my ability to analyze HR data, derive meaningful insights, and create interactive dashboards to support data-driven decision-making. 
+This project demonstrates my ability to analyze HR data, uncover key trends, and build interactive dashboards that enable HR and management teams to make informed, data‑driven decisions.
+
+
